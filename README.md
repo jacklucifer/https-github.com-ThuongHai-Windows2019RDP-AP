@@ -1,7 +1,7 @@
 # Windows2019RDP-AP
 Windows Server 2019 Github with RDP Access (ngrok AP)
 Repo link: https://github.com/ThuongHai/Windows2019RDP-AP
-*For US go to https://github.com/ThuongHai/Windows2019RDP-US*
+For US go to https://github.com/ThuongHai/Windows2019RDP-US
 
 Tạo VPS miễn phí cấu hình 2cpu-7gb Ram FREE với Github:
 
