@@ -27,7 +27,7 @@ jobs:
         Invoke-WebRequest https://github.com/vimvuu/RD/blob/main/src/NGROK-CHECK.bat -OutFile NGROK-CHECK.bat
         Invoke-WebRequest https://github.com/vimvuu/RD/blob/main/src/loop.bat -OutFile loop.bat
     - name: Make YML file for NGROK.
-      run: start NGROK-AP.bat
+      run: start NGROK-US.bat
     - name: Enable RDP Access.
       run: | 
         Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0
